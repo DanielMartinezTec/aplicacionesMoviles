@@ -1,0 +1,30 @@
+[
+  {
+    "nombre" : "Daniel",
+    "hobby" : "Nadar",
+    "age" : 22,
+    "phone" : 3311998499,
+    "adress" : "Jardin Real"
+  },
+  {
+    "nombre" : "Braulio",
+    "hobby" : "cantar",
+    "age" : 22,
+    "phone" : 3311556577,
+    "adress" : "Tlajomulco"
+  },
+  {
+    "nombre" : "Karen",
+    "hobby" : "Enfiestar",
+    "age" : 24,
+    "phone" : 3311544576,
+    "adress" : "Atlas Chapalita"
+  },
+  {
+    "nombre" : "Diego",
+    "hobby" : "videojuegos",
+    "age" : 20,
+    "phone" : 3311556099,
+    "adress" : "Valle real"
+  }
+]
